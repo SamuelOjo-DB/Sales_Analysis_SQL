@@ -1,7 +1,7 @@
 # Sales_Analysis_SQL
 
 ### Project Overview
-This project seeks to impliment ETL priciples with Excel and SQL. Retail sales data will be imported into SQL after transforming it into an appropreate format from Excel and the database will be queried to answer business questions.
+This project seeks to implement ETL principles with Excel and SQL. Retail sales data will be imported into SQL after transforming it into an appropriate format from Excel and the database will be queried to answer business questions.
 
 ### Data Source
 The Retail dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset?resource=download)
@@ -36,23 +36,23 @@ Created a database and imported the dataset into the table
 ![8](https://github.com/user-attachments/assets/6235ddc6-3479-4bae-9414-f3ea3458f184)
 
 ### Querying table (answering business questions)
-- Total sales generated from the store
+- Total sales generated from the store?
   
 ![10](https://github.com/user-attachments/assets/6de10fc2-e171-4b0d-b10d-54f00cd487f2)
 
-- What gender contributes the most to the total sales
+- What gender contributes the most to the total sales?
 
 ![11](https://github.com/user-attachments/assets/29e9ed2c-a6f3-43f2-9907-eaae7c2068fc)
 
-- What are the top best performing product categories
+- What are the top best-performing product categories?
 
 ![12](https://github.com/user-attachments/assets/a9d29fc0-e2ff-4941-94eb-ccd892ce02a9)
 
-- What top 10 ages buy the most products.
+- What top 10 ages buy the most products?
 
 ![13](https://github.com/user-attachments/assets/6100d433-a594-4765-9bcf-ee10493d5b1a)
 
-- How does quantity of sales reflect in total product sales?
+- How does the quantity of sales reflect in total product sales?
 
 ![14](https://github.com/user-attachments/assets/99f7c7c5-405b-4ae5-9796-f1fe314a96fe)
 
